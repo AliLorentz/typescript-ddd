@@ -18,3 +18,7 @@ export class MoocBackendApp {
   }
 
 }
+
+/**No es necesario usar React en el MoocFrontEnd
+ * aun que se use solo 2 clases haya tantas carpetas es para realizar buenas practicas
+ */
